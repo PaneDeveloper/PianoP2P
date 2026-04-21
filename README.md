@@ -1,4 +1,4 @@
-#Piano Compartilhado - Sistema P2P 🎹
+Piano Compartilhado - Sistema P2P 🎹
 
 Um piano digital multi-user de alta performance, focado em experimentação sonora e colaboração em tempo real através do navegador.
 
